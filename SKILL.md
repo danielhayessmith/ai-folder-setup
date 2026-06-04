@@ -84,7 +84,10 @@ Create the following files in the current working directory:
 {bullet list of conventions — one per line}
 
 ## Never
-{bullet list of guardrails — one per line}
+- Rewrite files I haven't asked you to touch
+- Add new packages or tools without asking first
+- Change the database schema without confirming with me
+{any additional guardrails — one per line}
 
 ## Current focus
 {first_task}
@@ -101,8 +104,18 @@ Create the following files in the current working directory:
 ## Up next
 - [ ] (add your next priority here)
 
+## Blocked / Questions
+- [ ] (anything waiting on a decision, dependency, or answer)
+
 ## Done
-(nothing yet)
+- [x] (things you've shipped)
+
+---
+
+## Last session
+- Changed:
+- Next:
+- Watch out for:
 ```
 
 ### `.ai/session-opener.md`
