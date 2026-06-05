@@ -20,14 +20,7 @@ Running `/ai-folder-setup` walks you through a short set of questions and genera
 
 ## Examples
 
-See how the `.ai/` folder looks across different project types:
-
-| Example | Stack | Description |
-|---------|-------|-------------|
-| [`examples/mobile-app`](examples/mobile-app/.ai/) | React Native + Expo + Supabase | Personal expense tracking app |
-| [`examples/web-app`](examples/web-app/.ai/) | Next.js 15 + Supabase + Vercel | Freelance proposal generator |
-| [`examples/ecommerce`](examples/ecommerce/.ai/) | Shopify + Dawn theme | Handmade textile goods store |
-| [`examples/marketing-website`](examples/marketing-website/.ai/) | Astro + Netlify | HR consulting firm site |
+Real-world examples of how the `.ai/` folder looks across different project types live in the template repo: [github.com/danielhayessmith/ai-folder-template](https://github.com/danielhayessmith/ai-folder-template#examples) — React Native, Next.js, Shopify, and Astro projects.
 
 ## How to install the skill
 
@@ -37,7 +30,7 @@ See how the `.ai/` folder looks across different project types:
 
 ## How to use without the skill
 
-If you just want the templates without the skill, copy the `.ai/` folder from any example above into your project root and fill in the blanks.
+If you just want the templates without the skill, grab them from the [template repo](https://github.com/danielhayessmith/ai-folder-template) — copy the `.ai/` folder into your project root and fill in the blanks.
 
 Then paste this at the start of every AI session:
 

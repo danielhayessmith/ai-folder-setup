@@ -144,4 +144,4 @@ After writing the files, tell the user:
    - Open `.ai/agents.md` and fill in anything that was left as a placeholder
    - Update `.ai/todo.md` as they complete tasks and add new ones
    - Copy the prompt from `.ai/session-opener.md` at the start of every AI session
-3. Remind them that the template repo at https://github.com/schutzsmith/ai-folder-template has more examples and context if they want to see how others have filled these out
+3. Remind them that the template repo at https://github.com/danielhayessmith/ai-folder-template has more examples and context if they want to see how others have filled these out
